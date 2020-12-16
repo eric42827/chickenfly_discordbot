@@ -5,7 +5,7 @@
 # token
 credentials.json
 token.json
-
+auth.json
 ### Node ###
 # Logs
 logs

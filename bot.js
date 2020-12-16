@@ -13,20 +13,13 @@ var objlist = { "1": "一王", "2": "二王", "3": "三王", "4": "四王", "5":
 
 // google sheet id
 const ssidlist = [
-    '1SexW0RXm9vDY9l8pmE19ztVSJM8AvShXcjOvaVRJGH8',  //將本行更新為你們公會的表單ID 記得放在引號裡面
-    '11PFDi3v1adAlBKmfHOB2UUz_yfnFdVO3kQZCo3ddZqc',
-    '1XdTip7GpPlIJKyMYMUX0BnmLvIUU88nr8_NuIerQxWY',
+    '1p-hb8Grzlh3jx-z5j2Gn6Ik7Yy_gojCzcUT0Pa-ja7M/edit#gid=339554571',  //將本行更新為你們公會的表單ID 記得放在引號裡面
     ]
 
 const chlist = {
     '727208069058265250': ssidlist[0],
-    '727208140264701982': ssidlist[0],
     '727208108278939748': ssidlist[0],
-    '647451565875265556': ssidlist[1],
-    '702100209018077264': ssidlist[1],
-    '696349817491816518': ssidlist[2],
-    '700992886979952690': ssidlist[2],
-    '689380330267869201': ssidlist[2],
+    '788768423223492619': ssidlist[0],
     //在這兩個頻道中填表, 都會連結到上面的第一個表單
     //'新頻道ID': ssidlist[1],
 
